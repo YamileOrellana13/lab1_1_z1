@@ -65,7 +65,6 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="clsAritmetica.cs" />
     <Compile Include="WSaritmetica.svc.cs">
       <DependentUpon>WSaritmetica.svc</DependentUpon>
     </Compile>
